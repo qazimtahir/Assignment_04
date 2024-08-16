@@ -1,0 +1,15 @@
+Enter your name: Alex
+Enter your first favorite number: 4
+Enter your second favorite number: 6
+Enter your third favorite number: 9
+
+Hello, Alex! Let's explore your favorite numbers:
+The number 4 is even.
+The number 6 is even.
+The number 9 is odd.
+The number 4 and its square: (4, 16)
+The number 6 and its square: (6, 36)
+The number 9 and its square: (9, 81)
+
+Amazing! The sum of your favorite numbers is: 19
+Wow, 19 is a prime number!
