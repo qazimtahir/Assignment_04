@@ -1,7 +1,7 @@
 name = str(input("What is your name:  "))
 first_number = int(input('Enter your first favorite number:  '))
-second_number = int(input('Enter your first favorite number:  '))
-third_number = int(input('Enter your first favorite number:  '))
+second_number = int(input('Enter your second favorite number:  '))
+third_number = int(input('Enter your third favorite number:  '))
 
 print(f"Hello, {name}! Let's explore your favorite numbers:")
 
